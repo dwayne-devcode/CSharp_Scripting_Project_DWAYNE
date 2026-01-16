@@ -1,0 +1,3 @@
+Ce projet est un mod expérimental en C# dans un environnement sandbox. Il se concentre sur la création de systèmes personnalisés pour les personnages, leurs transformations et leurs capacités spéciales, en utilisant une logique modulaire et basée sur les événements.
+
+Il est basé sur un mélange de mon propre code et de ressources de la communauté. Ma contribution a surtout été d’adapter, d’étendre et d’intégrer différents systèmes pour que tout fonctionne ensemble, et de corriger les bugs et améliorer le comportement du script.
